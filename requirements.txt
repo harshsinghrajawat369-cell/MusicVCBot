@@ -4,3 +4,4 @@ yt-dlp
 tgcrypto
 requests
 Flask
+ffmpeg-python
